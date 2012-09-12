@@ -1,5 +1,6 @@
 #Four Coffees. 
 
+<img src="https://raw.github.com/FourCoffees/Fablab-Course/master/me.jpg"/>
 
 
 #####Education and Training
